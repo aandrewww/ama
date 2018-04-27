@@ -5,7 +5,7 @@
 
 I'm a full-stack web developer, passionate football player, traveller, loving husband and crazy dog owner living in Minsk, Belarus.
 
-I get some questions by email or Twitter. This way anyone can read the answer!
+I get some questions by email. This way anyone can read the answer!
 
 Web development, open source, tools, blogging, sport, etc.
 
