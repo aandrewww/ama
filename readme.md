@@ -2,23 +2,20 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+I'm a full-stack web developer, passionate football player, traveller, loving husband and crazy dog owner living in Minsk, Belarus.
 
----
+I get some questions by email or Twitter. This way anyone can read the answer!
 
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
----
+Web development, open source, tools, blogging, sport, etc.
 
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
 - Be civil and polite.
+- Don’t be afraid to answer someone else’s qustions or add more to my answers.
 
 ### Links
 
